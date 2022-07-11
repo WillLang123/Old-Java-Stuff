@@ -1,0 +1,55 @@
+Tricycle
+29.99
+3
+5
+Generic
+Beach ball
+1.29
+3
+80
+Generic
+Guess Who
+14.99
+6
+9
+Hasbro
+Skateboard
+24.99
+6
+12
+Generic
+Barbie doll
+11.99
+6
+14
+Mattel
+Monopoly
+19.99
+8
+100
+Hasbro
+Easy Bake Oven
+19.99
+8
+12
+Hasbro
+Trivial Pursuit
+34.99
+12
+100
+Mattel
+See 'n Say
+19.35
+2
+5
+Hasbro
+Kids tool set
+14.75
+2
+6
+Generic
+Backgammon
+19.95
+8
+100
+Generic

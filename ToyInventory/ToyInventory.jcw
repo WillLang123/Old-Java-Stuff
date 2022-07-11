@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ToyInventory</label>
+	</settings>
+	<users>
+		<user>
+			<path>ToyInventory.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ToyInventory.jcp</path>
+		</project>
+	</projects>
+</workspace>

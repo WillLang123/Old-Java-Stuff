@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Merge</label>
+	</settings>
+	<users>
+		<user>
+			<path>Merge.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Merge.jcp</path>
+		</project>
+	</projects>
+</workspace>

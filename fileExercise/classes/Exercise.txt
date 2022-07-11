@@ -1,0 +1,60 @@
+Will Lang
+Houston
+TX
+15
+0
+Ashton Moore
+Houston
+TX
+15
+500
+Steven Sedtal
+Houston
+TX
+15
+5
+Chad Chad
+Phoenix
+AZ
+100
+1
+Kyle Guyle
+Juno
+AK
+10
+5000
+Noah Rice
+Nederland
+TX
+17
+1000
+Stone Sentinel
+Juno
+AK
+10000
+50
+File Exercise
+Baton Rouge
+LA
+19
+5000
+Cooly Guy
+Nederland
+TX
+20
+6000
+Rich Guy
+Baton Rouge
+LA
+25
+1000000
+Sam Houston
+Houston
+TX
+150
+1000
+Sum gai
+Juno
+AK
+30
+10000

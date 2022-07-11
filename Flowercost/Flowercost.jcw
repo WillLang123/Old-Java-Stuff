@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Flowercost</label>
+	</settings>
+	<users>
+		<user>
+			<path>Flowercost.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Flowercost.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>manufacturingArray</label>
+	</settings>
+	<users>
+		<user>
+			<path>manufacturingArray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>manufacturingArray.jcp</path>
+		</project>
+	</projects>
+</workspace>

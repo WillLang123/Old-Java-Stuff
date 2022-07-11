@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Life</label>
+	</settings>
+	<users>
+		<user>
+			<path>Life.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Life.jcp</path>
+		</project>
+	</projects>
+</workspace>

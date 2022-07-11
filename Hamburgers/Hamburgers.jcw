@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Hamburgers</label>
+	</settings>
+	<users>
+		<user>
+			<path>Hamburgers.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Hamburgers.jcp</path>
+		</project>
+	</projects>
+</workspace>

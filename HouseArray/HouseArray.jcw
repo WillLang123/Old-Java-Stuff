@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>HouseArray</label>
+	</settings>
+	<users>
+		<user>
+			<path>HouseArray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>HouseArray.jcp</path>
+		</project>
+	</projects>
+</workspace>

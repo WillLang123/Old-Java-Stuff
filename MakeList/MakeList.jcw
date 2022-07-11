@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MakeList</label>
+	</settings>
+	<users>
+		<user>
+			<path>MakeList.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MakeList.jcp</path>
+		</project>
+	</projects>
+</workspace>
